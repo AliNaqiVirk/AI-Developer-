@@ -1,4 +1,1 @@
-# AI-Developer-
-this is my first git respository 
-<br>
-my name is ali naqi virk
+this is the fist line of the code
